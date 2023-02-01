@@ -14,7 +14,7 @@ String FirmwareVer = {
   "2.2"
 };
 #define URL_fw_Version "https://raw.githubusercontent.com/syed6996/c7t/main/esp32_ota/bin_version.txt"
-#define URL_fw_Bin "https://raw.githubusercontent.com/syed6996/c7t/main/esp32_ota/bin_version.txt"
+#define URL_fw_Bin "https://raw.githubusercontent.com/syed6996/c7t/main/esp32_ota/fw.bin"
 
 //#define URL_fw_Version "http://cade-make.000webhostapp.com/version.txt"
 //#define URL_fw_Bin "http://cade-make.000webhostapp.com/firmware.bin"
